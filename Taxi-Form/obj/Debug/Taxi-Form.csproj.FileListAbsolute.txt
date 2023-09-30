@@ -1,0 +1,14 @@
+C:\Users\chara\RiderProjects\Taxi-Factory\Taxi-Form\obj\Debug\Taxi-Form.csproj.AssemblyReference.cache
+C:\Users\chara\RiderProjects\Taxi-Factory\Taxi-Form\obj\Debug\Taxi-Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\chara\RiderProjects\Taxi-Factory\Taxi-Form\obj\Debug\Taxi_Form.Properties.Resources.resources
+C:\Users\chara\RiderProjects\Taxi-Factory\Taxi-Form\obj\Debug\Taxi-Form.csproj.GenerateResource.cache
+C:\Users\chara\RiderProjects\Taxi-Factory\Taxi-Form\obj\Debug\Taxi-Form.csproj.CoreCompileInputs.cache
+C:\Users\chara\RiderProjects\Taxi-Factory\Taxi-Form\bin\Debug\Taxi_Form.exe.config
+C:\Users\chara\RiderProjects\Taxi-Factory\Taxi-Form\bin\Debug\Taxi_Form.exe
+C:\Users\chara\RiderProjects\Taxi-Factory\Taxi-Form\bin\Debug\Taxi_Form.pdb
+C:\Users\chara\RiderProjects\Taxi-Factory\Taxi-Form\bin\Debug\Taxi_Factory.dll
+C:\Users\chara\RiderProjects\Taxi-Factory\Taxi-Form\bin\Debug\Taxi_Factory.pdb
+C:\Users\chara\RiderProjects\Taxi-Factory\Taxi-Form\obj\Debug\Taxi-Form.csproj.CopyComplete
+C:\Users\chara\RiderProjects\Taxi-Factory\Taxi-Form\obj\Debug\Taxi_Form.exe
+C:\Users\chara\RiderProjects\Taxi-Factory\Taxi-Form\obj\Debug\Taxi_Form.pdb
+C:\Users\chara\RiderProjects\Taxi-Factory\Taxi-Form\obj\Debug\Taxi_Form.Form1.resources

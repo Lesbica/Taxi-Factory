@@ -1,0 +1,6 @@
+C:\Users\chara\RiderProjects\Taxi-Factory\bin\Debug\Taxi_Factory.dll
+C:\Users\chara\RiderProjects\Taxi-Factory\bin\Debug\Taxi_Factory.pdb
+C:\Users\chara\RiderProjects\Taxi-Factory\obj\Debug\Taxi-Factory.csproj.AssemblyReference.cache
+C:\Users\chara\RiderProjects\Taxi-Factory\obj\Debug\Taxi-Factory.csproj.CoreCompileInputs.cache
+C:\Users\chara\RiderProjects\Taxi-Factory\obj\Debug\Taxi_Factory.dll
+C:\Users\chara\RiderProjects\Taxi-Factory\obj\Debug\Taxi_Factory.pdb

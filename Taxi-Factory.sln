@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taxi-Factory", "Taxi-Factory.csproj", "{F98C85A3-27FA-4736-93B3-F0CA1E28DD14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taxi-Form", "Taxi-Form\Taxi-Form.csproj", "{A48E6536-B8C7-47D7-8961-DBA36E8BCA81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F98C85A3-27FA-4736-93B3-F0CA1E28DD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98C85A3-27FA-4736-93B3-F0CA1E28DD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98C85A3-27FA-4736-93B3-F0CA1E28DD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98C85A3-27FA-4736-93B3-F0CA1E28DD14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A48E6536-B8C7-47D7-8961-DBA36E8BCA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48E6536-B8C7-47D7-8961-DBA36E8BCA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48E6536-B8C7-47D7-8961-DBA36E8BCA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48E6536-B8C7-47D7-8961-DBA36E8BCA81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
